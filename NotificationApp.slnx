@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="NotificationApp.API/NotificationApp.API.csproj" />
+  <Project Path="NotificationApp.Application/NotificationApp.Application.csproj" Id="feadd659-c58c-4a97-b000-f3ffec8b88da" />
+  <Project Path="NotificationApp.Domain/NotificationApp.Domain.csproj" Id="dc36caae-73f7-4184-8779-b518918884b2" />
+  <Project Path="NotificationApp.Infrastructure/NotificationApp.Infrastructure.csproj" Id="9692c9ff-d2f5-44be-9b05-8711d9859b2b" />
+  <Project Path="NotificationApp.IntegrationTests/NotificationApp.IntegrationTests.csproj" Id="2f347d0e-0ea8-4385-9dd4-caa3011eeba2" />
+  <Project Path="NotificationApp.UnitTests/NotificationApp.UnitTests.csproj" Id="c9d124c0-4c53-435a-91cf-9f47f998c687" />
+</Solution>

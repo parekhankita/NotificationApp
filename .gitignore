@@ -1,0 +1,43 @@
+## Standard Visual Studio .gitignore
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results (Directories)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# IDE files and caches
+.vs/
+.localhistory/
+*.cache
+
+# Common Test & Code Coverage results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.coverage
+
+# NuGet Packages
+# Packages can be restored, so we don't need to commit them
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Node / Frontend dependencies (if applicable)
+node_modules/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
